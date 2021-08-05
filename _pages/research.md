@@ -3,35 +3,12 @@ permalink: /research/
 title: "Research"
 ---
 
-Time series econometrics and econometric theory
-Structural VAR models
-Environmental econom(etr)ics
-Sustainability: in theory at HELSUS and in practice at Dodo Ry
+Time series econometrics and econometric theory  
+Structural VAR models  
+Environmental econom(etr)ics  
+Sustainability: in theory at HELSUS and in practice at Dodo Ry  
 
-
-Working papers and projects
-
-
-Energy, emissions and growth in Sub-Saharan Africa: Evidence from statistically identified panel SVECMs
-(slides and preliminary working paper on request)
-
-The dependence between income inequality and carbon emission: A distributional copula analysis,
-with F. Dorn and T. Kneib (2021), cege working paper No. 413
-
-
-Statistical Identification in SVARs - Monte Carlo Experiments and a Comparative Assessment of the Role of Economic Uncertainties for the US Business Cycle,
-with H. Herwartz and A. Lange (2019), cege working paper No. 375
-
-
-Set identification of structural impulse responses in non-Gaussian VARs with an assessment of Keynesian asymmetry
-with H. Herwartz (2019)
-
-
-Lean Against the Wind or Float With the Storm? Revisiting the Monetary Policy Asset Price Nexus by Means of a Novel Statistical Identification Approach
-with H. Herwartz and H. Rohloff (2018), cege working paper No. 354
-
-
-Publications
+## Publications
 
 The link between monetary policy, stock and house prices - Evidence from a statistical identification approach
 with H. Herwartz and H. Rohloff (2021), accepted at International Journal of Central Banking
@@ -59,3 +36,27 @@ with H. Herwartz (2018), Statistical Papers
 
 Panel unit root tests for heteroskedastic panels
 with H. Herwartz, F. Raters and Y. Walle (2018), The Stata Journal Volume 18 Number 1: pp. 184-196
+
+
+## Working papers and projects
+
+
+Energy, emissions and growth in Sub-Saharan Africa: Evidence from statistically identified panel SVECMs
+(slides and preliminary working paper on request)
+
+The dependence between income inequality and carbon emission: A distributional copula analysis,
+with F. Dorn and T. Kneib (2021), cege working paper No. 413
+
+
+Statistical Identification in SVARs - Monte Carlo Experiments and a Comparative Assessment of the Role of Economic Uncertainties for the US Business Cycle,
+with H. Herwartz and A. Lange (2019), cege working paper No. 375
+
+
+Set identification of structural impulse responses in non-Gaussian VARs with an assessment of Keynesian asymmetry
+with H. Herwartz (2019)
+
+
+Lean Against the Wind or Float With the Storm? Revisiting the Monetary Policy Asset Price Nexus by Means of a Novel Statistical Identification Approach
+with H. Herwartz and H. Rohloff (2018), cege working paper No. 354
+
+
