@@ -3,6 +3,16 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Since September 2020 I'm Guest Professor of Econometrics at the Humboldt-Universität zu Berlin. Before I worked as a postdoc in the econometrics group at the University of Helsinki. I obtained my PhD from the University of Göttingen in 2017.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm interested in econometrics, sustainability and what holds the world together. Feel free to contact me if you have any questions or comments on my research or the implementation in R!
+
+Simone Maxand
+
+Chair of Econometrics
+Humboldt Universität zu Berlin
+Spandauer Strasse 1
+10178 Berlin
+simone.maxand (at) hu-berlin.de
+@simonemaxand
+https://github.com/smaxand
