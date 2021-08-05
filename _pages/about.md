@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "Contact"
 header:
   image: /assets/images/plant2.jpg
 ---
@@ -12,6 +12,9 @@ Humboldt-Universität zu Berlin
 Spandauer Strasse 1  
 10178 Berlin  
 simone.maxand (at) hu-berlin.de  
+
 [https://www.wiwi.hu-berlin.de/de/professuren/vwl/oe](https://www.wiwi.hu-berlin.de/de/professuren/vwl/oe)  
+
 [@simonemaxand](https://twitter.com/simonemaxand)  
+
 [https://github.com/smaxand](https://github.com/smaxand)  
