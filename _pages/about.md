@@ -10,9 +10,15 @@ I'm interested in econometrics, sustainability and what holds the world together
 Simone Maxand
 
 Chair of Econometrics
+
 Humboldt Universität zu Berlin
+
 Spandauer Strasse 1
+
 10178 Berlin
+
 simone.maxand (at) hu-berlin.de
+
 @simonemaxand
+
 https://github.com/smaxand
