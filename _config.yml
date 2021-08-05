@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Simone Maxand"
-  avatar : "https://blogs.helsinki.fi/maxand/files/2018/05/MG_5237-2-200x300.jpg"
+  avatar : "assets/images/photo.jpg"
   bio    : "Guest Professor of Econometrics, HU Berlin"
   twitter: simonemaxand
   email: "simone.maxand@hu-berlin.de"
