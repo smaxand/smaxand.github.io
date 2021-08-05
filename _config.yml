@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Simone Maxand
 email:
 description: >- # this means to ignore newlines until "baseurl:"
 
@@ -59,10 +59,8 @@ author:
   name   : "Simone Maxand"
   avatar : "https://blogs.helsinki.fi/maxand/files/2018/05/MG_5237-2-200x300.jpg"
   bio    : "Guest Professor of Econometrics, HU Berlin"
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/simonemaxand"
+  twitter: simonemaxand
+  email: "simone.maxand@hu-berlin.de"
 
 defaults:
   # _posts
