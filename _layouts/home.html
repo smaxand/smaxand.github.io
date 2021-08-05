@@ -4,19 +4,10 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Welcome!" }}</h3>
 
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
+{Since September 2020 I’m Guest Professor of Econometrics at the Humboldt-Universität zu Berlin.   
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
+Before I worked as a postdoc in the econometrics group at the University of Helsinki. I obtained my PhD from the University of Göttingen in 2017.  
 
-{% include paginator.html %}
+I’m interested in econometrics, sustainability and what holds the world together. Feel free to contact me if you have any questions or comments on my research or the implementation in R!
