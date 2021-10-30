@@ -43,8 +43,8 @@ Panel unit root tests for heteroskedastic panels
 Energy, emissions and growth in Sub-Saharan Africa: Evidence from statistically identified panel SVECMs  
 *(slides and preliminary working paper on request)*
 
-The dependence between income inequality and carbon emission: A distributional copula analysis  
-*with F. Dorn and T. Kneib (2021), [cege working paper No. 413](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800302)*
+The nonlinear dependence of income inequality and carbon emissions: potentials for a sustainable future  
+*with F. Dorn and T. Kneib (2021), [doi: 10.2139/ssrn.3800302](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800302)*
 
 
 Statistical Identification in SVARs - Monte Carlo Experiments and a Comparative Assessment of the Role of Economic Uncertainties for the US Business Cycle  
