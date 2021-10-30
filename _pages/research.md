@@ -11,7 +11,7 @@ title: "Research"
 ## Publications
 
 Data-driven identification in SVARs – When and how can statistical characteristics be used to unravel causal relationships?  
-*with H. Herwartz and A. Lange (2021), accepted at [Economic Inquiry](https://www.researchgate.net/publication/355058821)*
+*with H. Herwartz and A. Lange (2021), accepted at [Economic Inquiry](https://onlinelibrary.wiley.com/doi/10.1111/ecin.13035)*
 
 The link between monetary policy, stock and house prices - Evidence from a statistical identification approach  
 *with H. Herwartz and H. Rohloff (2021), accepted at International Journal of Central Banking*
