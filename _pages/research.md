@@ -39,13 +39,13 @@ Panel unit root tests for heteroskedastic panels
 
 ## Working papers and projects
 
-The nonlinear dependence of income inequality and carbon emissions: potentials for a sustainable future  
-*with F. Dorn and T. Kneib (2021), [doi: 10.2139/ssrn.3800302](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800302)*
-
 A panel SVAR for European climate policy
 
 The dynamic relation of income inequality and the environment 
 *with F. Dorn*
+
+The nonlinear dependence of income inequality and carbon emissions: potentials for a sustainable future  
+*with F. Dorn and T. Kneib (2021), [doi: 10.2139/ssrn.3800302](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800302)*
 
 Energy, emissions and growth in Sub-Saharan Africa: Evidence from statistically identified panel SVECMs  
 *(slides and preliminary working paper on request)*
