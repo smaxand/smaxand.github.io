@@ -39,21 +39,22 @@ Panel unit root tests for heteroskedastic panels
 
 ## Working papers and projects
 
+The nonlinear dependence of income inequality and carbon emissions: potentials for a sustainable future  
+*with F. Dorn and T. Kneib (2021), [doi: 10.2139/ssrn.3800302](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800302)*
+
+A panel SVAR for European climate policy
+
+The dynamic relation of income inequality and the environment 
+*with F. Dorn*
 
 Energy, emissions and growth in Sub-Saharan Africa: Evidence from statistically identified panel SVECMs  
 *(slides and preliminary working paper on request)*
 
-The nonlinear dependence of income inequality and carbon emissions: potentials for a sustainable future  
-*with F. Dorn and T. Kneib (2021), [doi: 10.2139/ssrn.3800302](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800302)*
-
-
-Statistical Identification in SVARs - Monte Carlo Experiments and a Comparative Assessment of the Role of Economic Uncertainties for the US Business Cycle  
-*with H. Herwartz and A. Lange (2019), [cege working paper No. 375](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3418405)*
-
-
 Set identification of structural impulse responses in non-Gaussian VARs with an assessment of Keynesian asymmetry  
 *with H. Herwartz (2019)*
 
+Statistical Identification in SVARs - Monte Carlo Experiments and a Comparative Assessment of the Role of Economic Uncertainties for the US Business Cycle  
+*with H. Herwartz and A. Lange (2019), [cege working paper No. 375](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3418405)*
 
 Lean Against the Wind or Float With the Storm? Revisiting the Monetary Policy Asset Price Nexus by Means of a Novel Statistical Identification Approach  
 *with H. Herwartz and H. Rohloff (2018), [cege working paper No. 354](http://wwwuser.gwdg.de/~cege/Diskussionspapiere/DP354.pdf)*
