@@ -6,11 +6,11 @@ header:
 ---
 
 
-Simone Maxand 
-Europa-Universität Viadrina
-Hauptgebäude, Raum 230
-Große Scharrnstr. 59
-D-15230 Frankfurt (Oder)
+Prof. Dr. Simone Maxand  
+Europa-Universität Viadrina  
+Hauptgebäude, Raum 230  
+Große Scharrnstr. 59  
+D-15230 Frankfurt (Oder)  
 
 maxand (at) europa-uni.de  
 
