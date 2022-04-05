@@ -58,9 +58,9 @@ plugins:
 author:
   name   : "Simone Maxand"
   avatar : "/assets/images/photo.JPG"
-  bio    : "HU Berlin"
+  bio    : "Europe-Uni Viadrina"
   twitter: simonemaxand
-  email: "simone.maxand@hu-berlin.de"
+  email: "maxand@europa-uni.de"
 
 footer:
   links:
