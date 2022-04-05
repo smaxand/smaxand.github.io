@@ -6,13 +6,13 @@ header:
 ---
 
 
-Simone Maxand  
-Chair of Econometrics  
-Humboldt-Universität zu Berlin  
-Spandauer Strasse 1  
-10178 Berlin  
-simone.maxand (at) hu-berlin.de  
-[https://www.wiwi.hu-berlin.de/de/professuren/vwl/oe](https://www.wiwi.hu-berlin.de/de/professuren/vwl/oe)  
+Simone Maxand 
+Europa-Universität Viadrina
+Hauptgebäude, Raum 230
+Große Scharrnstr. 59
+D-15230 Frankfurt (Oder)
+
+maxand (at) europa-uni.de  
 
 [@simonemaxand](https://twitter.com/simonemaxand)  
 
