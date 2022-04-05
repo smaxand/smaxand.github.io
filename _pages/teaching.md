@@ -6,7 +6,7 @@ title: "Teaching"
 
 ## Lectures
 
-Statistik I (Europa-Universität Viadrina)
+Statistik I (Europa-Universität Viadrina)  
 Econometric Methods (HU Berlin)  
 Applied Econometrics (HU Berlin)  
 Einführung in die Ökonometrie (HU Berlin)  
