@@ -3,9 +3,9 @@ permalink: /research/
 title: "Research"
 ---
 
-* Time series econometrics and econometric theory  
+* Time series analysis and theoretical statistics/econometrics and econometric theory  
 * Structural VAR models  
-* Environmental econometrics  
+* Climate econometrics  
 * Quantitative sustainability
 
 ## Publications
