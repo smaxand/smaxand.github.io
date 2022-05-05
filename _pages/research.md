@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
-* Time series analysis and theoretical statistics/econometrics and econometric theory  
+* Time series analysis and theoretical statistics/econometrics
 * Structural VAR models  
 * Climate econometrics  
 * Quantitative sustainability
