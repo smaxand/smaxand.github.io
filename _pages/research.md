@@ -11,7 +11,6 @@ title: "Research"
 ## Publications
 
 Forward detrending for heteroskedasticity-robust panel unit root testing
-
 *with H. Herwartz and Y. Walle (2022), Econometric Reviews (accepted)*
 
 Data-driven identification in SVARs – When and how can statistical characteristics be used to unravel causal relationships?  
@@ -49,7 +48,6 @@ Measuring and analyzing social sustainability
 *with F. Dorn*
 
 Do monetary policy shocks affect financial uncertainty? A non-Gaussian proxy SVAR approach
-
 *with R. Crucil and J. Hambuckers*
 
 The nonlinear dependence of income inequality and carbon emissions: potentials for a sustainable future  
