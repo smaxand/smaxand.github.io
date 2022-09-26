@@ -10,6 +10,9 @@ title: "Research"
 
 ## Publications
 
+Forward detrending for heteroskedasticity-robust panel unit root testing
+*with H. Herwartz and Y. Walle (2019), Econometric Reviews (accepted)*
+
 Data-driven identification in SVARs – When and how can statistical characteristics be used to unravel causal relationships?  
 *with H. Herwartz and A. Lange (2021), accepted at [Economic Inquiry](https://onlinelibrary.wiley.com/doi/10.1111/ecin.13035)*
 
