@@ -44,8 +44,11 @@ Panel unit root tests for heteroskedastic panels
 
 A panel SVAR for European climate policy
 
-The dynamic relation of income inequality and the environment 
+Measuring and analyzing social sustainability
 *with F. Dorn*
+
+Do monetary policy shocks affect financial uncertainty? A non-Gaussian proxy SVAR approach
+*with R. Crucil and J. Hambuckers*
 
 The nonlinear dependence of income inequality and carbon emissions: potentials for a sustainable future  
 *with F. Dorn and T. Kneib (2021), [doi: 10.2139/ssrn.3800302](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800302)*
