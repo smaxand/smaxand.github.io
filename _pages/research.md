@@ -10,7 +10,7 @@ title: "Research"
 
 ## Publications
 
-Forward detrending for heteroskedasticity-robust panel unit root testing
+Forward detrending for heteroskedasticity-robust panel unit root testing  
 *with H. Herwartz and Y. Walle (2022), accepted at Econometric Reviews*
 
 
@@ -46,10 +46,10 @@ Panel unit root tests for heteroskedastic panels
 
 A panel SVAR for European climate policy
 
-Measuring and analyzing social sustainability
+Measuring and analyzing social sustainability  
 *with F. Dorn*
 
-Do monetary policy shocks affect financial uncertainty? A non-Gaussian proxy SVAR approach
+Do monetary policy shocks affect financial uncertainty? A non-Gaussian proxy SVAR approach  
 *with R. Crucil and J. Hambuckers*
 
 The nonlinear dependence of income inequality and carbon emissions: potentials for a sustainable future  
