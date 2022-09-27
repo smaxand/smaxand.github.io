@@ -6,7 +6,7 @@ title: "Teaching"
 
 ## Lectures
 
-Data Analysis for Business and Economics (Europa-Universität Viadrina)
+Data Analysis for Business and Economics (Europa-Universität Viadrina)  
 Statistik (Europa-Universität Viadrina)  
 Econometric Methods (HU Berlin)  
 Applied Econometrics (HU Berlin)  
