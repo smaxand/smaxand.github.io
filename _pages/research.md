@@ -11,7 +11,7 @@ title: "Research"
 ## Publications
 
 Forward detrending for heteroskedasticity-robust panel unit root testing  
-*with H. Herwartz and Y. Walle (2022), accepted at Econometric Reviews*
+*with H. Herwartz and Y. Walle (2022), accepted at [Econometric Reviews](https://www.tandfonline.com/doi/full/10.1080/07474938.2022.2135495)*
 
 
 Data-driven identification in SVARs – When and how can statistical characteristics be used to unravel causal relationships?  
