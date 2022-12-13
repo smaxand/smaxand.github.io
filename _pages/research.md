@@ -19,7 +19,7 @@ Data-driven identification in SVARs – When and how can statistical characteris
 
 
 The link between monetary policy, stock and house prices - Evidence from a statistical identification approach  
-*with H. Herwartz and H. Rohloff (2022), [International Journal of Central Banking](https://www.ijcb.org/journal/ijcb22q5a3.htm)
+*with H. Herwartz and H. Rohloff (2022), [International Journal of Central Banking](https://www.ijcb.org/journal/ijcb22q5a3.htm)*
 
 
 Identification of structural multivariate GARCH models  
