@@ -19,6 +19,3 @@ MOOC Sustainability Course: Sustainable and Just Economies (University of Helsin
 
 Econometrics I & II, Einführung in die Ökonometrie, Applied Econometrics (Master), Multivariate Time Series Analysis, Measure and Probability Theory, Stochastic Processes
 
-## Training
-
-University pedagogy course: Learning in higher education (Helsinki, spring 2020)
