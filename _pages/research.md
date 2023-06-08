@@ -49,7 +49,7 @@ A structural VAR for European climate policy
 Measuring and analyzing social sustainability  
 *with F. Dorn*
 
-Efficient and Just Electrification in Rural Sub-Saharan Africa
+Efficient and Just Electrification in Rural Sub-Saharan Africa  
 *with T. Grandón and J. Schwenzer*
 
 Do monetary policy shocks affect financial uncertainty? A non-Gaussian proxy SVAR approach  
