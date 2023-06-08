@@ -49,8 +49,11 @@ A structural VAR for European climate policy
 Measuring and analyzing social sustainability  
 *with F. Dorn*
 
+Efficient and Just Electrification in Rural Sub-Saharan Africa
+*with T. Grandón and J. Schwenzer*
+
 Do monetary policy shocks affect financial uncertainty? A non-Gaussian proxy SVAR approach  
-*with R. Crucil and J. Hambuckers [http://dx.doi.org/10.2139/ssrn.4469420](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4469420)*
+*with R. Crucil and J. Hambuckers (2023), [http://dx.doi.org/10.2139/ssrn.4469420](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4469420)*
 
 The nonlinear dependence of income inequality and carbon emissions: potentials for a sustainable future  
 *with F. Dorn and T. Kneib (2021), [doi: 10.2139/ssrn.3800302](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800302)*
@@ -59,7 +62,7 @@ Energy, emissions and growth in Sub-Saharan Africa: Evidence from statistically 
 *(slides and preliminary working paper on request)*
 
 Set identification of structural impulse responses in non-Gaussian VARs with an assessment of Keynesian asymmetry  
-*with H. Herwartz (2019)*
+*with H. Herwartz (2022)*
 
 Statistical Identification in SVARs - Monte Carlo Experiments and a Comparative Assessment of the Role of Economic Uncertainties for the US Business Cycle  
 *with H. Herwartz and A. Lange (2019), [cege working paper No. 375](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3418405)*
