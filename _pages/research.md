@@ -9,7 +9,7 @@ title: "Research"
 * Quantitative sustainability
 
 
-## Working papers and projects
+## Working papers and projects (among others)
 
 A structural VAR for European climate policy
 
