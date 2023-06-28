@@ -8,7 +8,7 @@ title: "Teaching"
 
 Project Seminar Data Science & Decision Support (EU Viadrina)   
 Data Analysis for Business and Economics (EU Viadrina)  
-Statistik/Statistics (Europa-Universität Viadrina)  
+Statistik/Statistics (EU Viadrina)  
 Econometric Methods (HU Berlin)  
 Applied Econometrics (HU Berlin)  
 Einführung in die Ökonometrie (HU Berlin)  
