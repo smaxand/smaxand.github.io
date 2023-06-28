@@ -8,14 +8,35 @@ title: "Research"
 * Climate econometrics  
 * Quantitative sustainability
 
+
+## Working papers and projects
+
+A structural VAR for European climate policy
+
+Efficient and Just Electrification in Rural Sub-Saharan Africa  
+*with T. Grandón and J. Schwenzer*
+
+Bivariate quantiles for basic social needs  
+*with F. Dorn*
+
+Do monetary policy shocks affect financial uncertainty? A non-Gaussian proxy SVAR approach  
+*with R. Crucil and J. Hambuckers (2023), [http://dx.doi.org/10.2139/ssrn.4469420](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4469420)*
+
+The nonlinear dependence of income inequality and carbon emissions: potentials for a sustainable future  
+*with F. Dorn and T. Kneib (2021), [doi: 10.2139/ssrn.3800302](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800302)*
+
+Energy, emissions and growth in Sub-Saharan Africa: Evidence from statistically identified panel SVECMs  
+*(slides and preliminary working paper on request)*
+
+Set identification of structural impulse responses in non-Gaussian VARs with an assessment of Keynesian asymmetry  
+*with H. Herwartz (2022)*   
+
+
+
 ## Publications
 
 Forward detrending for heteroskedasticity-robust panel unit root testing  
 *with H. Herwartz and Y. Walle (2022), [Econometric Reviews](https://www.tandfonline.com/doi/full/10.1080/07474938.2022.2135495)*
-
-
-Data-driven identification in SVARs – When and how can statistical characteristics be used to unravel causal relationships?  
-*with H. Herwartz and A. Lange (2021), [Economic Inquiry](https://onlinelibrary.wiley.com/doi/10.1111/ecin.13035)*
 
 
 The link between monetary policy, stock and house prices - Evidence from a statistical identification approach  
@@ -24,6 +45,10 @@ The link between monetary policy, stock and house prices - Evidence from a stati
 
 Identification of structural multivariate GARCH models  
 *with C. Hafner and H. Herwartz (2022), [Journal of Econometrics](https://www.sciencedirect.com/science/article/pii/S0304407620302098)*
+
+
+Data-driven identification in SVARs – When and how can statistical characteristics be used to unravel causal relationships?  
+*with H. Herwartz and A. Lange (2021), [Economic Inquiry](https://onlinelibrary.wiley.com/doi/10.1111/ecin.13035)*
 
 
 svars: An R Package for Data-Driven Identification in Multivariate Time Series Analysis  
@@ -40,34 +65,5 @@ Heteroskedasticity-robust unit root testing for trending panels
 
 Panel unit root tests for heteroskedastic panels  
 *with H. Herwartz, F. Raters and Y. Walle (2018), [The Stata Journal](https://www.stata-journal.com/article.html?article=st0519)*
-
-
-## Working papers and projects
-
-A structural VAR for European climate policy
-
-Measuring and analyzing social sustainability  
-*with F. Dorn*
-
-Efficient and Just Electrification in Rural Sub-Saharan Africa  
-*with T. Grandón and J. Schwenzer*
-
-Do monetary policy shocks affect financial uncertainty? A non-Gaussian proxy SVAR approach  
-*with R. Crucil and J. Hambuckers (2023), [http://dx.doi.org/10.2139/ssrn.4469420](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4469420)*
-
-The nonlinear dependence of income inequality and carbon emissions: potentials for a sustainable future  
-*with F. Dorn and T. Kneib (2021), [doi: 10.2139/ssrn.3800302](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800302)*
-
-Energy, emissions and growth in Sub-Saharan Africa: Evidence from statistically identified panel SVECMs  
-*(slides and preliminary working paper on request)*
-
-Set identification of structural impulse responses in non-Gaussian VARs with an assessment of Keynesian asymmetry  
-*with H. Herwartz (2022)*
-
-Statistical Identification in SVARs - Monte Carlo Experiments and a Comparative Assessment of the Role of Economic Uncertainties for the US Business Cycle  
-*with H. Herwartz and A. Lange (2019), [cege working paper No. 375](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3418405)*
-
-Lean Against the Wind or Float With the Storm? Revisiting the Monetary Policy Asset Price Nexus by Means of a Novel Statistical Identification Approach  
-*with H. Herwartz and H. Rohloff (2018), [cege working paper No. 354](http://wwwuser.gwdg.de/~cege/Diskussionspapiere/DP354.pdf)*
 
 
