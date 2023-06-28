@@ -6,8 +6,8 @@ title: "Teaching"
 
 ## Lectures & Seminars
 
-Project Seminar Data Science & Decision Support (Europa-Universität Viadrina)   
-Data Analysis for Business and Economics (Europa-Universität Viadrina)  
+Project Seminar Data Science & Decision Support (EU Viadrina)   
+Data Analysis for Business and Economics (EU Viadrina)  
 Statistik/Statistics (Europa-Universität Viadrina)  
 Econometric Methods (HU Berlin)  
 Applied Econometrics (HU Berlin)  
