@@ -25,8 +25,6 @@ Do monetary policy shocks affect financial uncertainty? A non-Gaussian proxy SVA
 The nonlinear dependence of income inequality and carbon emissions: potentials for a sustainable future  
 *with F. Dorn and T. Kneib (2021), [doi: 10.2139/ssrn.3800302](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800302)*
 
-Energy, emissions and growth in Sub-Saharan Africa: Evidence from statistically identified panel SVECMs  
-*(slides and preliminary working paper on request)*
 
 Set identification of structural impulse responses in non-Gaussian VARs with an assessment of Keynesian asymmetry  
 *with H. Herwartz (2022)*   
