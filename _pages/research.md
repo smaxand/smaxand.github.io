@@ -16,7 +16,7 @@ A structural VAR for European climate policy
 Efficient and Just Electrification in Rural Sub-Saharan Africa  
 *with T. Grandón and J. Schwenzer*
 
-Bivariate quantiles for basic social needs  
+Bivariate quantiles for basic needs  
 *with F. Dorn*
 
 Do monetary policy shocks affect financial uncertainty? A non-Gaussian proxy SVAR approach  
