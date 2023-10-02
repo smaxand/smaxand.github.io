@@ -30,7 +30,7 @@ Set identification of structural impulse responses in non-Gaussian VARs with an 
 ## Publications
 
 The nonlinear dependence of income inequality and carbon emissions: potentials for a sustainable future  
-*with F. Dorn and T. Kneib (2023, accepted at Ecological Economics), [previous version doi: 10.2139/ssrn.3800302](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800302)*
+*with F. Dorn and T. Kneib (2023, accepted at Ecological Economics), previous version: [doi: 10.2139/ssrn.3800302](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800302)*
 
 Forward detrending for heteroskedasticity-robust panel unit root testing  
 *with H. Herwartz and Y. Walle (2022), [Econometric Reviews](https://www.tandfonline.com/doi/full/10.1080/07474938.2022.2135495)*
