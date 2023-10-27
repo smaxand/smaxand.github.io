@@ -13,7 +13,7 @@ title: "Research"
 
 A structural VAR for European climate policy
 
-oRaklE - An R Package for Long-term Electricity Demand Forecasting
+oRaklE - An R Package for Long-term Electricity Demand Forecasting  
 *with T. Grandón and J. Schwenzer, [on github](https://github.com/Autarky-Power/oraklE_R)*
 
 Bivariate quantiles for basic needs  
