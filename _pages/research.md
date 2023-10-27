@@ -13,8 +13,8 @@ title: "Research"
 
 A structural VAR for European climate policy
 
-Efficient and Just Electrification in Rural Sub-Saharan Africa  
-*with T. Grandón and J. Schwenzer*
+oRaklE - An R Package for Long-term Electricity Demand Forecasting
+*with T. Grandón and J. Schwenzer, [on github](https://github.com/Autarky-Power/oraklE_R)*
 
 Bivariate quantiles for basic needs  
 *with F. Dorn*
