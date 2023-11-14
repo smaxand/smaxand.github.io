@@ -20,7 +20,10 @@ Bivariate quantiles for basic needs
 *with F. Dorn*
 
 Do monetary policy shocks affect financial uncertainty? A non-Gaussian proxy SVAR approach  
-*with R. Crucil and J. Hambuckers (2023), [http://dx.doi.org/10.2139/ssrn.4469420](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4469420)*
+*with R. Crucil and J. Hambuckers (2023), [http://dx.doi.org/10.2139/ssrn.4469420](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4469420)*  
+
+Local fiscal effects of immigration in Germany  
+*with H. Sallam*  
 
 Set identification of structural impulse responses in non-Gaussian VARs with an assessment of Keynesian asymmetry  
 *with H. Herwartz (2022)*   
