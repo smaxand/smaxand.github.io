@@ -11,7 +11,7 @@ title: "Research"
 
 ## Working papers and projects (among others)
 
-European carbon pricing in boom and bust times [preliminary working paper](maxand_EUcprice.pdf)*
+European carbon pricing in boom and bust times [preliminary working paper](smaxand.github.io/maxand_EUcprice.pdf)*
 
 oRaklE - An R Package for Multihorizon Electricity Demand Forecasting  
 *with T. Grandón and J. Schwenzer, [on github](https://github.com/Autarky-Power/oraklE_R)*
