@@ -20,7 +20,7 @@ Bivariate quantiles for measuring energy-income inequality
 *with F. Dorn*
 
 Local fiscal effects of immigration in Germany  
-*with H. Sallam* (2024), [working paper](https://www.cesifo.org/en/publications/2024/working-paper/local-fiscal-effects-immigration-germany)  
+*with H. Sallam* (2024), [CESifo Working Paper No. 11162](https://www.cesifo.org/en/publications/2024/working-paper/local-fiscal-effects-immigration-germany)  
 
 Do monetary policy shocks affect financial uncertainty? A non-Gaussian proxy SVAR approach  
 *with R. Crucil and J. Hambuckers (2023), [http://dx.doi.org/10.2139/ssrn.4469420](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4469420)*  
