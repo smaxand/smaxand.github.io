@@ -33,7 +33,7 @@ Set identification of structural impulse responses in non-Gaussian VARs with an 
 ## Publications
 
 Economic Analysis of Global CO2 Emissions and Energy Consumption Based on the World Kaya Identity  
-*with A. Yakymchuk and A. Lewandowska (2025, [Energies](https://doi.org/10.3390/en18071661))*
+*with A. Yakymchuk and A. Lewandowska (2025, [Energies](https://www.mdpi.com/1996-1073/18/7/1661))*
 
 The nonlinear dependence of income inequality and carbon emissions: potentials for a sustainable future  
 *with F. Dorn and T. Kneib (2024, [Ecological Economics](https://doi.org/10.1016/j.ecolecon.2023.108016)), [preprint, data and code](https://github.com/smaxand/Copula_GINIcarbon)*
