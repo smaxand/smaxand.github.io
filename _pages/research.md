@@ -36,7 +36,7 @@ Economic Analysis of Global CO2 Emissions and Energy Consumption Based on the Wo
 *with A. Yakymchuk and A. Lewandowska (2025, [Energies](https://doi.org/10.3390/en18071661))*
 
 The nonlinear dependence of income inequality and carbon emissions: potentials for a sustainable future  
-*with F. Dorn and T. Kneib (2023, [Ecological Economics](https://doi.org/10.1016/j.ecolecon.2023.108016)), [preprint, data and code](https://github.com/smaxand/Copula_GINIcarbon)*
+*with F. Dorn and T. Kneib (2024, [Ecological Economics](https://doi.org/10.1016/j.ecolecon.2023.108016)), [preprint, data and code](https://github.com/smaxand/Copula_GINIcarbon)*
 
 Forward detrending for heteroskedasticity-robust panel unit root testing  
 *with H. Herwartz and Y. Walle (2022), [Econometric Reviews](https://www.tandfonline.com/doi/full/10.1080/07474938.2022.2135495)*
