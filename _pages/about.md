@@ -14,6 +14,6 @@ D-15230 Frankfurt (Oder)
 
 maxand (at) europa-uni.de  
 
-[@simonemaxand](https://twitter.com/simonemaxand)  
+[@smaxand.bsky.social](https://bsky.app/profile/smaxand.bsky.social) 
 
 [https://github.com/smaxand](https://github.com/smaxand)  
