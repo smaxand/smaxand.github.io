@@ -60,13 +60,12 @@ author:
   name   : "Simone Maxand"
   avatar : "/assets/images/photo.JPG"
   bio    : "Europa-Uni Viadrina"
-  twitter: simonemaxand
+  github : "https://github.com/smaxand"
+  bluesky : "https://bsky.app/profile/smaxand.bsky.social"
   email: "maxand@europa-uni.de"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
