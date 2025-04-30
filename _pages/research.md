@@ -8,6 +8,7 @@ title: "Research"
 * Climate econometrics  
 * Quantitative sustainability
 
+My published papers are also listed on [google scholar](https://scholar.google.com/citations?user=IVRezNAAAAAJ&hl=de).
 
 ## Working papers and projects (among others)
 
