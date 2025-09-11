@@ -12,12 +12,12 @@ My published papers are also listed on [google scholar](https://scholar.google.c
 
 ## Working papers and projects (among others)
 
-European carbon pricing in boom and bust times, *[preliminary working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724014)*    
+European carbon pricing in boom and bust times, *[working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724014)*    
 
 oRaklE - An R Package for Multihorizon Electricity Demand Forecasting  
 *with T. Grandón and J. Schwenzer, [on CRAN](https://cran.r-project.org/web/packages/oRaklE/index.html), [vignette](https://cran.r-project.org/web/packages/oRaklE/vignettes/oRaklE.html)*
 
-Bivariate quantiles for measuring energy-income inequality  
+Consumption effects of subsidies in low-income households: Evidence from bivariate copula-based quantiles  
 *with F. Dorn*
 
 Local fiscal effects of immigration in Germany  
@@ -25,9 +25,6 @@ Local fiscal effects of immigration in Germany
 
 Do monetary policy shocks affect financial uncertainty? A non-Gaussian proxy SVAR approach  
 *with R. Crucil and J. Hambuckers (2023), [http://dx.doi.org/10.2139/ssrn.4469420](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4469420)*  
-
-Set identification of structural impulse responses in non-Gaussian VARs with an assessment of Keynesian asymmetry  
-*with H. Herwartz (2022)*   
 
 
 
