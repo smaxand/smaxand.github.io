@@ -17,8 +17,8 @@ European carbon pricing in boom and bust times, *[working paper](https://papers.
 oRaklE - An R Package for Multihorizon Electricity Demand Forecasting  
 *with T. Grandón and J. Schwenzer, [on CRAN](https://cran.r-project.org/web/packages/oRaklE/index.html), [vignette](https://cran.r-project.org/web/packages/oRaklE/vignettes/oRaklE.html)*
 
-Consumption effects of subsidies in low-income households: Evidence from bivariate copula-based quantiles  
-*with F. Dorn*
+Heat or Eat: How Food and Energy Subsidies Shape Household Trade-offs  
+*with F. Dorn, [slides](https://smaxand.github.io/slides_2dimpoverty.pdf)*
 
 Local fiscal effects of immigration in Germany  
 *with H. Sallam (2024), [CESifo Working Paper No. 11162](https://www.cesifo.org/en/publications/2024/working-paper/local-fiscal-effects-immigration-germany)*  
