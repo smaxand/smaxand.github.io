@@ -12,6 +12,8 @@ My published papers are also listed on [google scholar](https://scholar.google.c
 
 ## Working papers and projects (among others)
 
+Time-use and Income: A Trivariate Relative Poverty Surface, *with F. Dorn and K.S. Meier, [BSoE Discussion Paper No. 90](https://opus4.kobv.de/opus4-hsog/frontdoor/deliver/index/docId/6061/file/BSoE_DP_0090.pdf)* 
+
 European carbon pricing in boom and bust times, *[working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724014)*    
 
 oRaklE - An R Package for Multihorizon Electricity Demand Forecasting  
