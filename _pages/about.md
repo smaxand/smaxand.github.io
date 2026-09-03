@@ -7,12 +7,11 @@ header:
 
 
 Prof. Dr. Simone Maxand  
-Europa-Universität Viadrina  
-Hauptgebäude, Raum 230  
-Große Scharrnstr. 59  
-D-15230 Frankfurt (Oder)  
+Universität Leipzig
+Grimmaische Straße 12
+04109 Leipzig
 
-maxand (at) europa-uni.de  
+simone.maxand @ uni-leipzig.de
 
 [@smaxand.bsky.social](https://bsky.app/profile/smaxand.bsky.social) 
 
