@@ -6,9 +6,9 @@ header:
 ---
 
 
-Prof. Dr. Simone Maxand  
-Universität Leipzig
-Grimmaische Straße 12
+Prof. Dr. Simone Maxand    
+Universität Leipzig    
+Grimmaische Straße 12    
 04109 Leipzig
 
 simone.maxand @ uni-leipzig.de
