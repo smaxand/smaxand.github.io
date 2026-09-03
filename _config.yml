@@ -59,9 +59,9 @@ plugins:
 author:
   name   : "Simone Maxand"
   avatar : "/assets/images/photo.JPG"
-  bio    : "Europa-Uni Viadrina"
+  bio    : "Leipzig University"
   github : "smaxand"
-  email: "maxand@europa-uni.de"
+  email: "simone.maxand@uni-leipzig.de"
 
 footer:
   links:
