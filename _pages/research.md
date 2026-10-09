@@ -12,6 +12,9 @@ My published papers are also listed on [google scholar](https://scholar.google.c
 
 ## Working papers and projects (among others)
 
+Inference in Panel SVARs with Two-Way Dependence,    
+*with L. Empting, S. Öztürk and K. Wagner, [working paper](http://arxiv.org/abs/2610.11898)*    
+
 Monetary Policy Transmission over the Leverage Cycle,   
 *with H. Rohloff and M. Saß, [working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6568479)*  
 
