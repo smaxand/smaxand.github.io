@@ -8,7 +8,7 @@ title: "Teaching"
 
 - Advanced Statistics: Material can be found here.  
       Lecture: Mon 11:15 in SR5, Tutorial: Wed 15:15 PC Pool      
-- Statistik und Wahrscheinlichkeitsrechnung: Die Materialien finden Sie hier.
+- Statistik und Wahrscheinlichkeitsrechnung: Die Materialien finden Sie hier.      
       Vorlesung: Mo 15:15 in HS3, Mi 15:15 in HS9      
       Zentralübung: Di 9:15 in HS9    
       Tutorien:   Mo, 09.15 - 10:45, SR 3 oder      
