@@ -6,10 +6,10 @@ title: "Teaching"
 
 ## News and Updates for Leipzig University students
 
-- __Advanced Statistics__: Material can be found here.  
+- __Advanced Statistics__: Material can be found <a href="https://mycloud.europa-uni.de/s/qCiYXwqW6z9K3Es">here</a> (Password in the lecture).  
       &emsp;Lecture: Mon 11:15 in SR5,     
   &emsp;Tutorial: Wed 15:15 PC Pool      
-- __Statistik und Wahrscheinlichkeitsrechnung__: Die Materialien finden Sie hier.      
+- __Statistik und Wahrscheinlichkeitsrechnung__: Die Materialien finden Sie <a href="https://mycloud.europa-uni.de/s/XWoDeHcXgknqzLp">hier</a> (Passwort in der Vorlesung).      
       &emsp;Vorlesung: Mo 15:15 in HS3, Mi 15:15 in HS9      
       &emsp;Zentralübung: Di 9:15 in HS9    
       &emsp;Tutorien:   Mo, 09.15 - 10:45, SR 3 oder      
