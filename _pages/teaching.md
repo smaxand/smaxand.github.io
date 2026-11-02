@@ -9,7 +9,7 @@ title: "Teaching"
 - __Advanced Statistics__: Material can be found <a href="https://mycloud.europa-uni.de/s/qCiYXwqW6z9K3Es">here</a> (Password in the lecture).  
       &emsp;Lecture: Mon 11:15 in SR4,     
   &emsp;Tutorial: Wed 15:15 PC Pool      
-- __Statistik und Wahrscheinlichkeitsrechnung__: Die Vorlesungsmaterialien finden Sie <a href="https://mycloud.europa-uni.de/s/XWoDeHcXgknqzLp">hier</a> (Passwort in der Vorlesung). Die Materialien für Zentralübung und Tutorien finden Sie <a href="https://sites.google.com/view/statws202627/">hier</a>.
+- __Statistik und Wahrscheinlichkeitsrechnung__: Die Vorlesungsmaterialien finden Sie <a href="https://mycloud.europa-uni.de/s/XWoDeHcXgknqzLp">hier</a> (Passwort in der Vorlesung). Die Materialien für Zentralübung und Tutorien finden Sie <a href="https://sites.google.com/view/statws202627/">hier</a>.       
       &emsp;Vorlesung: Mo 15:15 in HS3, Mi 15:15 in HS9      
       &emsp;Zentralübung: Di 9:15 in HS9    
       &emsp;Tutorien:   Mo, 09.15 - 10:45, SR 3 oder      
