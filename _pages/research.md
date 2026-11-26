@@ -12,6 +12,9 @@ My published papers are also listed on [google scholar](https://scholar.google.c
 
 ## Working papers and projects (among others)
 
+Heat and Eat: Bivariate Distributional Effects of Public Assistance       
+*with F. Dorn, [working paper](https://www.uni-due.de/imperia/md/content/soziooekonomie/ifsowp68_dornmaxand2026.pdf)*
+
 Inference in Panel SVARs with Two-Way Dependence,    
 *with L. Empting, S. Öztürk and K. Wagner, [working paper](http://arxiv.org/abs/2610.11898)*    
 
@@ -25,9 +28,6 @@ European carbon pricing in boom and bust times, *[working paper](https://papers.
 
 oRaklE - An R Package for Multihorizon Electricity Demand Forecasting  
 *with T. Grandón and J. Schwenzer, [on CRAN](https://cran.r-project.org/web/packages/oRaklE/index.html), [vignette](https://cran.r-project.org/web/packages/oRaklE/vignettes/oRaklE.html)*
-
-Heat or Eat: How Food and Energy Subsidies Shape Household Trade-offs  
-*with F. Dorn, [slides](https://smaxand.github.io/slides_2dimpoverty.pdf)*
 
 Local fiscal effects of immigration in Germany  
 *with H. Sallam (2024), [CESifo Working Paper No. 11162](https://www.cesifo.org/en/publications/2024/working-paper/local-fiscal-effects-immigration-germany)*  
